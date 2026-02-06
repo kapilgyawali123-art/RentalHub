@@ -1,6 +1,6 @@
 import React from "react";
 import { GoHome } from "react-icons/go";
-import heroImg from "/Images/Gemini_Generated_Image_9go8qv9go8qv9go8.png";
+// import heroImg from "/Images/Gemini_Generated_Image_9go8qv9go8qv9go8.png";
 
 // Sample property data
 const featuredProperties = [
